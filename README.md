@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=lshwa%20github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=seunghwa%20github&fontSize=90" />
 
 <!--
 **lshwa/lshwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
