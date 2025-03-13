@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9B1FF7&background=F0F0F000&width=435&lines=Welcome+to+lshwa's+github" alt="Typing SVG" /></a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lshwa&theme=tokyonight_duo)](https://github.com/yymin1022)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lshwa&count_private=true&show_icons=true&theme=dark)](https://github.com/lshwa)
