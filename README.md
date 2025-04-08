@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 ### Introduction
 
 - Dongsung High School (2018.02~2021.02)
+
 - School of Software, Chung-Ang University(2021.03~)
+  
 - 38th Squadron, ROKAF | Signal Corps | 840기 (2022.08~0204.05)
 
 
