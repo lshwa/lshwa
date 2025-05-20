@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   
 - 38th Squadron, ROKAF | Signal Corps | 840기 (2022.08~0204.05)
 
+- DArt-B 학회 5기 (2025.03~)
+
 
 
 ---
