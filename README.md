@@ -106,4 +106,13 @@ https://github.com/lshwa/SLR-Compiler
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+<br>
+<br> 
+<p align="center">
+  <a href="https://solved.ac/sw092311">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=sw092311"/>
+  </a>
 </p>
