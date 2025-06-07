@@ -111,6 +111,8 @@ https://github.com/lshwa/SLR-Compiler
 
 <br>
 <br> 
+
+**Algorithm Practice** 
 <p align="center">
   <a href="https://solved.ac/sw092311">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=sw092311"/>
