@@ -78,6 +78,9 @@ https://github.com/Yut-nori
 
 https://github.com/lshwa/SLR-Compiler
 
+- **25-1 Capstone Design Course : HumaniCare (독거노인을 위한 실시간 케어 플랫폼)**
+
+https://github.com/HumaniCare
 
 ---
 
