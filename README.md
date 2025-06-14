@@ -1,6 +1,6 @@
 <!-- 헤더 이미지 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome%20My%20Github%F0%9F%A4%97" alt="header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello~~%20I'm%20승화%20👋" alt="header">
 </div>
 
 <!-- Typing SVG -->
