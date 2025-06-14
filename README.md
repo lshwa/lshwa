@@ -121,3 +121,7 @@ https://github.com/HumaniCare
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=sw092311"/>
   </a>
 </p>
+
+**🏆 GitHub Trophies**
+
+![](https://github-profile-trophy.vercel.app/?username=lshwa&theme=radical&no-frame=false&no-bg=false&margin-w=4)
