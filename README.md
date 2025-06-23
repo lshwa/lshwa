@@ -54,9 +54,10 @@
 
 - Craftsman Information Processing
 
-  
-
   + Class 1 Driver’s License (Manual Transmission)
+
+- TOPCIT Certified – 639 Points (Level 3)
+
 
 ---
 
