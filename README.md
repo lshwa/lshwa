@@ -66,10 +66,10 @@
 | 프로젝트명 | 설명 | GitHub 링크 |
 |------------|------|-------------|
 | Algorithm Study | C, C++, Java, Python, SQL 알고리즘 스터디 | https://github.com/lshwa/Algorithm |
-| GDG Project: HomeSaveHome | 스마트 홈 에너지 절약 서비스 | https://github.com/HomeSaveHome/HSH_BE |
-| 25-1 소프트웨어 공학 윷놀이 프로젝트 | 객체지향 설계 기반 윷놀이 게임 구현 | https://github.com/Yut-nori |
-| 25-1 SLR Compiler Parser | SLR 기반 컴파일러 파서 구현 | https://github.com/lshwa/SLR-Compiler |
-| 25-1 캡스톤디자인: HumaniCare | 독거노인을 위한 실시간 케어 플랫폼 | https://github.com/HumaniCare |
+| GDG Project: HomeSaveHome (BE) | 스마트 홈 에너지 절약 서비스(Spring) | https://github.com/HomeSaveHome/HSH_BE |
+| 25-1 소프트웨어 공학 윷놀이 프로젝트 (BE) | 객체지향 설계 기반 윷놀이 게임 구현(Java) | https://github.com/Yut-nori |
+| 25-1 SLR Compiler Parser | SLR 기반 컴파일러 파서 구현(Python) | https://github.com/lshwa/SLR-Compiler |
+| 25-1 캡스톤디자인: HumaniCare (FE, IoT) | 독거노인을 위한 실시간 케어 플랫폼(React) | https://github.com/HumaniCare |
 ---
 
 ### 🛠️ Tech Stack 🛠️
