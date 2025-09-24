@@ -58,6 +58,8 @@
 
 - TOPCIT Certified – 639 Points (Level 3)
 
+- SQLD 
+
 
 ---
 
