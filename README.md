@@ -23,12 +23,9 @@
 <!-- Top Languages -->
 <div align="center">
   <a href="https://github.com/lshwa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&hide=jupyter%20notebook&layout=compact&theme=dark" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&hide=jupyter%20notebook&layout=compact&theme=dark&exclude_repo=Linux_Exercise" alt="Top Langs" />
   </a>
 </div>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <br>
 
