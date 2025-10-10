@@ -10,24 +10,26 @@
   </a>
 </div>
 
-<!-- GitHub Stats -->
-<div align="center">
+<!-- GitHub Stats + Top Languages  -->
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 20px; flex-wrap: wrap;">
   <a href="https://github.com/lshwa">
-    <img src="https://github-readme-stats.vercel.app/api?username=lshwa&count_private=true&show_icons=true&theme=dark" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lshwa&count_private=true&show_icons=true&theme=dark"
+         alt="GitHub Stats" width="420" height="180" style="object-fit: contain;"/>
+  </a>
+
+  <a href="https://github.com/lshwa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&hide=jupyter%20notebook&layout=compact&theme=dark&exclude_repo=Linux_Exercise"
+         alt="Top Langs" width="370" height="180" style="object-fit: contain;"/>
   </a>
 </div>
-
-<br>
 <br>
 
-<!-- Top Languages -->
+<!-- 📈 GitHub Activity Graph -->
 <div align="center">
   <a href="https://github.com/lshwa">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&hide=jupyter%20notebook&layout=compact&theme=dark&exclude_repo=Linux_Exercise" alt="Top Langs" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lshwa&theme=react-dark&bg_color=20232a&hide_border=true&line=9B1FF7&color=9B1FF7" width="94%" alt="Contribution Graph"/>
   </a>
 </div>
-
-<br>
 
 ### ✨ Introduction ✨ 
 
