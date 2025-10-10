@@ -34,10 +34,15 @@
 - Dongsung High School (2018.03 ~ 2021.02, Graduated)
 
 - Department of Software, Chung-Ang University (2021.03~ Present)
+
+- Caution, Cybersecurity Club at Chung-Ang University | 1st Team Member (Mar 2021 ~ Aug 2022)
   
 - 38th Squadron, ROKAF | Signal Corps | 840기 (2022.08~ 2024.05)
 
 - DArt-B Data Analytics Club, 5th & 6th Term Executive Member (Mar 2025 ~ Present)
+
+- GDG on Campus Chung-Ang University Member (Sep 2025 ~ Present)
+
 
 
 
@@ -45,18 +50,17 @@
 
 ### 🏆 Ceritifcate 🏆
 
-- Certified Network Manager Level 2
+- Certified Network Manager Level 2 (네트워크 관리사 2급)
 
-- Linux Master Level 2
+- Linux Master Level 2 (리눅스 마스터 2급)
 
-- Craftsman Information Processing
-
-  + Class 1 Driver’s License (Manual Transmission)
+- Craftsman Information Processing (정보 처리 기능사) 
 
 - TOPCIT Certified – 639 Points (Level 3)
 
 - SQLD 
 
+  + Class 1 Driver’s License (Manual Transmission) 
 
 ---
 
