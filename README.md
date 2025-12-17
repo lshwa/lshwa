@@ -21,14 +21,14 @@
     />
   </a>
 
-  <a href="https://github.com/lshwa">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&layout=compact&hide=jupyter%20notebook&theme=dark&cache_seconds=86400"
-      alt="Top Langs"
-      width="370" height="180"
-      style="object-fit: contain;"
-    />
-  </a>
+<a href="https://github.com/lshwa">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&layout=compact&hide=jupyter%20notebook&exclude_repo=linux-kernel-code-project,Linux_Exercise&theme=dark&cache_seconds=86400"
+    alt="Top Langs"
+    width="370" height="180"
+    style="object-fit: contain;"
+  />
+</a>
 
 </div>
 <br>
