@@ -40,11 +40,14 @@
   </a>
 </div>
 
-### 📌 Introduction 📌
-Hi, I’m Seunghwa Lee, currently studying at Chung-Ang University.
-I’m continuously learning and exploring various fields as I work toward finding my career path.
-Through hands-on projects and practical experience with data, I found that analyzing problems and deriving insights aligns well with my interests and strengths, which led me to focus on studying data science.
-If you’re curious about what I’ve been exploring and working on, feel free to check out my GitHub.
+# 📌 Introduction 📌
+
+#### Hi, I’m Seunghwa Lee 👋
+
+I’m currently studying at **Chung-Ang University** - continuously learning and exploring various fields as I work toward finding my career path.
+Through hands-on projects and practical experience with data, I found that analyzing problems and deriving insights aligns well with my interests and strengths, which led me to focus on studying **data science**.
+
+👉 If you’re curious about what I’ve been exploring and working on, feel free to check out my GitHub & my **[blog](https://lshwa.github.io)**.
 
 
 ### ✨ Activity ✨ 
