@@ -97,7 +97,7 @@ Through hands-on projects and practical experience with data, I found that analy
 | 25-2 다트비&패럿 데이터 해커톤 : **대상** | 항공운항 데이터셋을 활용한 지연시간 예측 모델링 | https://github.com/lshwa/CAU_Sogang_Data_Hackathon |
 | 25-2 서울시 빅데이터 캠퍼스 공모전 | 노인 복지시설 최고의 입지 모델링 | https://github.com/lshwa/Best_Location_For_Eldery |
 | 25-2 다트비 토이프로젝트 | 배틀그라운드 승자예측 분석 토이 프로젝트 | https://github.com/lshwa/Toyproject2 |
-| 25-2 다트비 학술제(실시간 AI 탐지기 프로젝트) : **최우수상** | KatFishNet 기반 HEI 지표로 AI 글쓰기 실시간 탐지 시스템 개발(Python, Tkinter) | https://github.com/lshwa/Real_tIme_AIDetector |
+| 25-2 다트비 학술제(실시간 AI 탐지기 프로젝트) : **최우수상** | KatFishNet 기반 HEI 지표로 AI 글쓰기 실시간 탐지 시스템 개발(Python, Tkinter) | https://github.com/Academic-Conference/25-2_DArtB_Academic_AI, https://github.com/lshwa/Real_tIme_AIDetector |
 | 25-2 리눅스응용설계 팀프로젝트 | Linux Kernel PID 시스템 개선 프로젝트 (Skiplist 및 RB-Skiplist 기반) | https://github.com/lshwa/linux-kernel-code-project |
 | 25-2 캡스톤디자인 : WordChanger (AI, BE) (**A+**)| 온라인 실시간 혐오 표현/비속어 순화 크롬 익스텐션  | https://github.com/Capstone25-2-Team3 |
 ---
