@@ -96,6 +96,7 @@ Through hands-on projects and practical experience with data, I found that analy
 | GDG Project: HomeSaveHome (BE) | 스마트 홈 에너지 절약 서비스(Spring) | https://github.com/HomeSaveHome/HSH_BE |
 | 25-1 소프트웨어 공학 윷놀이 프로젝트 (BE) | 객체지향 설계 기반 윷놀이 게임 구현(Java) | https://github.com/Yut-nori |
 | 25-1 SLR Compiler Parser | SLR 기반 컴파일러 파서 구현(Python) | https://github.com/lshwa/SLR-Compiler |
+| 25-1 다트비 학술제(유튜브 주식채널 주가 예측 분석) | 유튜브 주식채널 스크립트 감성분석을 활용한 주가 예측 프로젝트 | https://github.com/lshwa/StockYoutube_analysis |
 | 25-1 캡스톤디자인: HumaniCare (FE, IoT) (**A+**) | 독거노인을 위한 실시간 케어 플랫폼(React) | https://github.com/HumaniCare |
 | 25-2 다트비&패럿 데이터 해커톤 : **대상** | 항공운항 데이터셋을 활용한 지연시간 예측 모델링 | https://github.com/lshwa/CAU_Sogang_Data_Hackathon |
 | 25-2 서울시 빅데이터 캠퍼스 공모전 | 노인 복지시설 최고의 입지 모델링 | https://github.com/lshwa/Best_Location_For_Eldery |
