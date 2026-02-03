@@ -49,7 +49,7 @@ Through hands-on projects and practical experience with data, I found that analy
 
 👉 If you’re curious about what I’ve been exploring and working on, feel free to check out my GitHub & my **[blog](https://lshwa.github.io)**.
 
-  <a href="https/github.com/lshwa">
+  <a href="https://www.notion.so/2f59ec63b88e81b88c91e7d566737181?source=copy_link">
     <img src="https://img.shields.io/badge/-Notion_Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   </a>
 
