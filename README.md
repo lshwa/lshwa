@@ -11,24 +11,32 @@
 </div>
 
 <!-- GitHub Stats + Top Languages -->
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/lshwa">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=lshwa&show_icons=true&theme=dark&count_private=true&cache_seconds=86400"
-      alt="GitHub Stats"
-      width="420" height="180"
-      style="object-fit: contain;"
-    />
-  </a>
+<div align="center">
 
-<a href="https://github.com/lshwa">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&layout=compact&hide=jupyter%20notebook&exclude_repo=linux-kernel-code-project,Linux_Exercise&theme=dark&cache_seconds=86400"
-    alt="Top Langs"
-    width="370" height="180"
-    style="object-fit: contain;"
-  />
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lshwa">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=lshwa&show_icons=true&theme=dark&count_private=true&cache_seconds=86400"
+          alt="GitHub Stats"
+          width="420"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lshwa">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=lshwa&layout=compact&hide=jupyter%20notebook&exclude_repo=linux-kernel-code-project,Linux_Exercise&theme=dark&cache_seconds=86400"
+          alt="Top Langs"
+          width="370"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 </div>
 <br>
@@ -87,21 +95,47 @@ Through hands-on projects and practical experience with data, I found that analy
   + Class 1 Driver’s License (Manual Transmission) 
 
 ---
+## 📜 Project
 
-### 📜 Project 📜
+### 🚀 Main Projects
 
-| 프로젝트명 | 설명 | GitHub 링크 |
-|------------|------|-------------|
-| Algorithm Study | C, C++, Java, Python, SQL 알고리즘 스터디 | https://github.com/lshwa/Algorithm, https://github.com/lshwa/LeetCode-Algorithm|
-| GDG Project: HomeSaveHome (BE) | 스마트 홈 에너지 절약 서비스(Spring) | https://github.com/HomeSaveHome/HSH_BE |
-| 25-1 소프트웨어 공학 윷놀이 프로젝트 (BE) | 객체지향 설계 기반 윷놀이 게임 구현(Java) | https://github.com/Yut-nori |
-| 25-1 SLR Compiler Parser | SLR 기반 컴파일러 파서 구현(Python) | https://github.com/lshwa/SLR-Compiler |
-| 25-1 다트비 학술제(유튜브 주식채널 주가 예측 분석) | 유튜브 주식채널 스크립트 감성분석을 활용한 주가 예측 프로젝트 | https://github.com/lshwa/StockYoutube_analysis |
-| 25-1 캡스톤디자인: HumaniCare (FE, IoT) (**A+**) | 독거노인을 위한 실시간 케어 플랫폼(React) | https://github.com/HumaniCare |
-| 25-2 다트비&패럿 데이터 해커톤 : **대상** | 항공운항 데이터셋을 활용한 지연시간 예측 모델링 | https://github.com/lshwa/CAU_Sogang_Data_Hackathon |
-| 25-2 서울시 빅데이터 캠퍼스 공모전 | 노인 복지시설 최고의 입지 모델링 | https://github.com/lshwa/Best_Location_For_Eldery |
-| 25-2 다트비 토이프로젝트 | 배틀그라운드 승자예측 분석 토이 프로젝트 | https://github.com/lshwa/Toyproject2 |
-| 25-2 다트비 학술제(실시간 AI 탐지기 프로젝트) : **최우수상** | KatFishNet 기반 HEI 지표로 AI 글쓰기 실시간 탐지 시스템 개발(Python, Tkinter) | https://github.com/Academic-Conference/25-2_DArtB_Academic_AI, https://github.com/lshwa/Real_tIme_AIDetector |
-| 25-2 리눅스응용설계 팀프로젝트 | Linux Kernel PID 시스템 개선 프로젝트 (Skiplist 및 RB-Skiplist 기반) | https://github.com/lshwa/linux-kernel-code-project |
-| 25-2 캡스톤디자인 : WordChanger (AI, BE) (**A+**)| 온라인 실시간 혐오 표현/비속어 순화 크롬 익스텐션  | https://github.com/Capstone25-2-Team3 |
+- **[WordChanger (AI, BE) | 25-2 캡스톤디자인 (A+)](https://github.com/Capstone25-2-Team3)**  
+  온라인 실시간 혐오 표현·비속어 순화 크롬 익스텐션
+
+- **[HumaniCare (FE, IoT) | 25-1 캡스톤디자인 (A+)](https://github.com/HumaniCare)**  
+  독거노인을 위한 실시간 케어 플랫폼
+
+- **[실시간 AI 탐지기 프로젝트 | 25-2 다트비 학술제 최우수상](https://github.com/Academic-Conference/25-2_DArtB_Academic_AI)**  
+  KatFishNet 기반 HEI 지표로 AI 글쓰기 실시간 탐지 시스템 개발  
+  ↳ [개인 정리 레포](https://github.com/lshwa/Real_tIme_AIDetector)
+
+- **[항공운항 지연시간 예측 모델링 | 25-2 다트비&패럿 데이터 해커톤 대상](https://github.com/lshwa/CAU_Sogang_Data_Hackathon)**  
+  항공운항 데이터셋을 활용한 지연시간 예측 모델링
+
+- **[유튜브 주식채널 주가 예측 분석 | 25-1 다트비 학술제](https://github.com/lshwa/StockYoutube_analysis)**  
+  유튜브 주식채널 스크립트 감성분석을 활용한 주가 예측 프로젝트
+
+- **[서울시 빅데이터 캠퍼스 공모전](https://github.com/lshwa/Best_Location_For_Eldery)**  
+  노인 복지시설 최적 입지 모델링
+
 ---
+
+### 💻 Development / Study Projects
+
+- **[HomeSaveHome (BE) | GDG Project](https://github.com/HomeSaveHome/HSH_BE)**  
+  스마트 홈 에너지 절약 서비스 (Spring)
+
+- **[윷놀이 프로젝트 (BE) | 25-1 소프트웨어공학](https://github.com/Yut-nori)**  
+  객체지향 설계 기반 윷놀이 게임 구현 (Java)
+
+- **[SLR Compiler Parser | 25-1 Compiler](https://github.com/lshwa/SLR-Compiler)**  
+  SLR 기반 컴파일러 파서 구현 (Python)
+
+- **[Linux Kernel PID 시스템 개선 | 25-2 리눅스응용설계](https://github.com/lshwa/linux-kernel-code-project)**  
+  Skiplist 및 RB-Skiplist 기반 PID 시스템 개선 프로젝트
+
+- **[배틀그라운드 승자예측 분석 | 25-2 다트비 토이프로젝트](https://github.com/lshwa/Toyproject2)**  
+  게임 데이터 기반 승자 예측 분석
+
+- **[Algorithm Study](https://github.com/lshwa/Algorithm)** / **[LeetCode Study](https://github.com/lshwa/LeetCode-Algorithm)**  
+  C, C++, Java, Python, SQL 알고리즘 스터디
