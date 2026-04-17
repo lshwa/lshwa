@@ -1,18 +1,26 @@
-<!-- 헤더 이미지 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello~~%20I'm%20승화%20👋" alt="header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=80&lines=Welcome+to+lshwa's+GitHub" />
 </div>
 
-<!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=9B1FF7&background=F0F0F000&width=435&lines=Welcome+to+lshwa's+github" alt="Typing SVG" />
+# 📌 Introduction 📌
+
+#### Hi, I’m Seunghwa Lee 👋
+
+I’m currently studying at **Chung-Ang University** - continuously learning and exploring various fields as I work toward finding my career path.
+Through hands-on projects and practical experience with data, I found that analyzing problems and deriving insights aligns well with my interests and strengths, which led me to focus on studying **data science**.
+
+👉 If you’re curious about what I’ve been exploring and working on, feel free to check out my GitHub & my **[blog](https://lshwa.github.io)**.
+
+  <a href="https://www.notion.so/2f59ec63b88e81b88c91e7d566737181?source=copy_link">
+    <img src="https://img.shields.io/badge/-Notion_Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
   </a>
-</div>
 
+<br>
+<br>
+
+---
 <!-- GitHub Stats + Top Languages -->
 <div align="center">
-
 <table>
   <tr>
     <td align="center">
@@ -36,6 +44,8 @@
   </tr>
 </table>
 
+<br>
+<br>
 </div>
 
 </div>
@@ -48,18 +58,7 @@
   </a>
 </div>
 
-# 📌 Introduction 📌
 
-#### Hi, I’m Seunghwa Lee 👋
-
-I’m currently studying at **Chung-Ang University** - continuously learning and exploring various fields as I work toward finding my career path.
-Through hands-on projects and practical experience with data, I found that analyzing problems and deriving insights aligns well with my interests and strengths, which led me to focus on studying **data science**.
-
-👉 If you’re curious about what I’ve been exploring and working on, feel free to check out my GitHub & my **[blog](https://lshwa.github.io)**.
-
-  <a href="https://www.notion.so/2f59ec63b88e81b88c91e7d566737181?source=copy_link">
-    <img src="https://img.shields.io/badge/-Notion_Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-  </a>
 
 ### ✨ Activity ✨ 
 
