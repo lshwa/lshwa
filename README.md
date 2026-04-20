@@ -163,3 +163,42 @@ Through hands-on projects and practical experience with data, I found that analy
 
 - **[DArt-B Official Blog](https://dart-b-official.github.io/)**  
   학회 과제 및 학습 콘텐츠 아카이빙 블로그 구축 및 운영
+
+---
+
+## 🌳 Tech Stack
+
+### 📊 Data / ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy)
+
+---
+
+### 💻 IT / CS Fundamentals
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+### 📈 Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis)
+
+---
+
+### ⚙️ Infra / Tools
+![AWS](https://img.shields.io/badge/AWS_S3/EC2-FF9900?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+
+---
