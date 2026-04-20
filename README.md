@@ -48,8 +48,6 @@ Through hands-on projects and practical experience with data, I found that analy
   </tr>
 </table>
 
-<br>
-<br>
 </div>
 
 </div>
