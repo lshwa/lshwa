@@ -136,5 +136,11 @@ Through hands-on projects and practical experience with data, I found that analy
 - **[배틀그라운드 승자예측 분석 | 25-2 다트비 토이프로젝트](https://github.com/lshwa/Toyproject2)**  
   게임 데이터 기반 승자 예측 분석
 
+- **[Frequent Pattern Mining (Apriori) | Data Science Assignment](https://github.com/lshwa/Frequent_Pattern_Mining_Assignment1)**  
+  Apriori 알고리즘 기반 빈발 패턴 탐색 및 연관 규칙 생성 구현 (Python)
+
+- **[Pacman with Adversarial Search | AI Project](https://github.com/lshwa/Pacman-with-Adversarial-Search)**  
+  Minimax 및 Alpha-Beta Pruning 기반 게임 AI 구현 (Python)
+
 - **[Algorithm Study](https://github.com/lshwa/Algorithm)** / **[LeetCode Study](https://github.com/lshwa/LeetCode-Algorithm)**  
   C, C++, Java, Python, SQL 알고리즘 스터디
