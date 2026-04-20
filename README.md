@@ -6,15 +6,19 @@
 
 #### Hi, I’m Seunghwa Lee 👋
 
-I’m currently studying at **Chung-Ang University** - continuously learning and exploring various fields as I work toward finding my career path.
+I’m currently studying at **Chung-Ang University** - continuously learning and exploring various fields as I work toward finding my career path.  
 Through hands-on projects and practical experience with data, I found that analyzing problems and deriving insights aligns well with my interests and strengths, which led me to focus on studying **data science**.
 
-👉 If you’re curious about what I’ve been exploring and working on, feel free to check out my GitHub & my **[blog](https://lshwa.github.io)**.
+👉 If you’re curious about what I’ve been exploring and working on, feel free to check out my GitHub & my blog
 
+<div align="center">
   <a href="https://www.notion.so/2f59ec63b88e81b88c91e7d566737181?source=copy_link">
-    <img src="https://img.shields.io/badge/-Notion_Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NOTION_PORTFOLIO-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
-
+  <a href="https://lshwa.github.io/">
+    <img src="https://img.shields.io/badge/DEV%20BLOG-111111?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+</div>
 <br>
 <br>
 
