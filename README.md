@@ -145,5 +145,8 @@ Through hands-on projects and practical experience with data, I found that analy
 - **[Pacman with Adversarial Search | AI Project](https://github.com/lshwa/Pacman-with-Adversarial-Search)**  
   Minimax 및 Alpha-Beta Pruning 기반 게임 AI 구현 (Python)
 
+- **[Toyproject3 | 좀비 바이러스 시뮬레이션](https://github.com/lshwa/Toyproject3)**  
+  Grid 기반 감염 확산 모델링 및 생존 전략 비교 시뮬레이션 (SIR 기반, Spatial Data)
+
 - **[Algorithm Study](https://github.com/lshwa/Algorithm)** / **[LeetCode Study](https://github.com/lshwa/LeetCode-Algorithm)**  
   C, C++, Java, Python, SQL 알고리즘 스터디
