@@ -96,7 +96,7 @@ Through hands-on projects and practical experience with data, I found that analy
 ---
 ## 📜 Project
 
-### 🚀 Main Projects
+### 🌟 Main Projects
 
 - **[WordChanger (AI, BE) | 25-2 캡스톤디자인 (A+)](https://github.com/Capstone25-2-Team3)**  
   온라인 실시간 혐오 표현·비속어 순화 크롬 익스텐션
@@ -116,6 +116,9 @@ Through hands-on projects and practical experience with data, I found that analy
 
 - **[서울시 빅데이터 캠퍼스 공모전](https://github.com/lshwa/Best_Location_For_Eldery)**  
   노인 복지시설 최적 입지 모델링
+
+- **[LH NewTown Safety Risk Prediction | LH COMPAS 공모전](https://github.com/lshwa/LH_NewTown_Safety_Risk_Prediction)**  
+  공간 데이터 기반 교통사고 위험 예측 및 CMF 기반 안전 정책 제안
 
 ---
 
