@@ -58,8 +58,6 @@ Through hands-on projects and practical experience with data, I found that analy
   </a>
 </div>
 
-
-
 ### ✨ Activity ✨ 
 
 - Dongsung High School (2018.03 ~ 2021.02, Graduated)
@@ -202,3 +200,8 @@ Through hands-on projects and practical experience with data, I found that analy
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
 ---
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lshwa&theme=github-dark" />
+
+</div>
