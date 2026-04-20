@@ -150,3 +150,16 @@ Through hands-on projects and practical experience with data, I found that analy
 
 - **[Algorithm Study](https://github.com/lshwa/Algorithm)** / **[LeetCode Study](https://github.com/lshwa/LeetCode-Algorithm)**  
   C, C++, Java, Python, SQL 알고리즘 스터디
+
+---
+
+### 🏫 Organization / Community Projects
+
+- **[DArt-B Official Website](https://github.com/lshwa/DArt_B_WEB)**  
+  학회 웹사이트 기획 및 개발 팀 (백엔드 배포, 버그 수정 역할 담당)
+
+- **[DArt-B GitHub Organization](https://github.com/DArt-B-Official)**  
+  학회 프로젝트 및 과제 레포지토리 관리 및 운영
+
+- **[DArt-B Official Blog](https://dart-b-official.github.io/)**  
+  학회 과제 및 학습 콘텐츠 아카이빙 블로그 구축 및 운영
