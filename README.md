@@ -19,8 +19,6 @@ Through hands-on projects and practical experience with data, I found that analy
     <img src="https://img.shields.io/badge/DEV%20BLOG-111111?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </div>
-<br>
-<br>
 
 ---
 <!-- GitHub Stats + Top Languages -->
