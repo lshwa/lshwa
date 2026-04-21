@@ -161,7 +161,8 @@ Through hands-on projects and practical experience with data, I found that analy
   학회 프로젝트 및 과제 레포지토리 관리 및 운영
 
 - **[DArt-B Official Blog](https://dart-b-official.github.io/)**  
-  학회 과제 및 학습 콘텐츠 아카이빙 블로그 구축 및 운영
+  학회 과제 및 학습 콘텐츠 아카이빙 블로그 구축 및 운영  
+  ↳ **[학술제 아카이빙](https://github.com/Academic-Conference)**
 
 ---
 
