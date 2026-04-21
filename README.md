@@ -155,6 +155,7 @@ Through hands-on projects and practical experience with data, I found that analy
 
 - **[DArt-B Official Website](https://github.com/lshwa/DArt_B_WEB)**  
   학회 웹사이트 기획 및 개발 팀 (백엔드 배포, 버그 수정 역할 담당)
+  [![Website](https://img.shields.io/badge/Visit-DArt--B%20Official%20Website-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cau-dartb.com)
 
 - **[DArt-B GitHub Organization](https://github.com/DArt-B-Official)**  
   학회 프로젝트 및 과제 레포지토리 관리 및 운영
