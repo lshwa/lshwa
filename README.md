@@ -78,18 +78,14 @@ Through hands-on projects and practical experience with data, I found that analy
 ---
 
 ### 🏆 Ceritifcate 🏆
-
 - Certified Network Manager Level 2 (네트워크 관리사 2급)
-
 - Linux Master Level 2 (리눅스 마스터 2급)
-
 - Craftsman Information Processing (정보 처리 기능사) 
-
+- Engineer Information Processing (정보처리기사)
+- Big Data Analysis Engineer (빅데이터 분석기사)
 - TOPCIT Certified – 639 Points (Level 3)
-
 - SQLD 
-
-  + Class 1 Driver’s License (Manual Transmission) 
+  + Class 1 Driver’s License (Manual Transmission)
 
 ---
 ## 📜 Project
