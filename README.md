@@ -61,17 +61,12 @@ Through hands-on projects and practical experience with data, I found that analy
 ### ✨ Activity ✨ 
 
 - Dongsung High School (2018.03 ~ 2021.02, Graduated)
-
-- Department of Software, Chung-Ang University (2021.03~ Present)
-
+- Department of Software, Chung-Ang University (2021.03 ~ 2026.06)
 - Caution, Cybersecurity Club at Chung-Ang University | 1st Team Member (Mar 2021 ~ Aug 2022)
-  
-- 38th Squadron, ROKAF | Signal Corps | 840기 (2022.08~ 2024.05)
-
-- DArt-B Data Analytics Club, 5th & 6th Term Executive Member (Mar 2025 ~ Present)
-
-- GDG on Campus Chung-Ang University Member (Sep 2025 ~ Present)
-
+- 38th Squadron, ROKAF | Signal Corps | 840기 (2022.08 ~ 2024.05)
+- DArt-B Data Analytics Club, 5th & 6th Term Executive Member (Mar 2025 ~ 2026.06)
+- GDG on Campus Chung-Ang University Member (Sep 2025 ~ 2026.06)
+- Finance & Admin Division Intern, [Alfa Laval Korea](https://www.alfalaval.kr/) (Seoul) (2026.07 ~ 2026.08)
 
 
 
